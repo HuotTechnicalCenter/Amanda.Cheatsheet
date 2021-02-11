@@ -1,0 +1,5 @@
+
+language = 'python'
+
+if language == 'python':
+    print('conditional was True')
